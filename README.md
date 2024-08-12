@@ -29,6 +29,6 @@ n:       3
 oldChar: 's'  
 newChar: 't'  
 text:    "sally sold seashells by the seashore"  
-          1     2    3  4    5        6  7     -> 3rd and 6th occurrences of 's' are replaced with '7'  
+          1     2    3  4    5        6  7     -> 3rd and 6th occurrences of 's' are replaced with 't'  
 RESULT:  "sally sold teashells by the teashore"  
 ```
