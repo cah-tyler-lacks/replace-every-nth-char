@@ -1,15 +1,18 @@
+## Goal
+The goal of this exercise is to develop code using TDD and paired programming skills.
+
 ## Task
-Write a method, that replaces every nth occurrence found of oldChar with char newChar.  
+Write a method, that replaces every nth occurrence found of **_oldChar_** with char **_newChar_**.  
 
 ## Inputs
-**_n_**: change the target letter (oldChar) every nth occurrence  
-**_oldChar_**: the targetted character  
-**_newChar_**: the character to use as replacement  
+**_n_**: change the target letter (**_oldChar_**) every nth occurrence  
+**_oldChar_**: the targeted character  
+**_newChar_**: the character to use as the replacement  
 **_text_**: the string to modify  
 
 ## Business Rules
 * Your method has to be case sensitive!  
-* If n is 0 or negative or if it is larger than the count of the oldChar, return the original text without a change.
+* If n is 0 or negative or if it is larger than the count of the **_oldChar_**, return the original text without a change.
 
 ## Example 1:
 ```
