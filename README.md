@@ -2,7 +2,7 @@
 The goal of this exercise is to develop code using TDD and paired programming skills.
 
 ## Task
-Write a method, that replaces every nth occurrence found of **_oldChar_** with char **_newChar_**.  
+Write a method, that replaces every _**n**th_ occurrence found of **_oldChar_** with char **_newChar_**.  
 
 ## Inputs
 **_n_**: change the target letter (**_oldChar_**) every nth occurrence  
